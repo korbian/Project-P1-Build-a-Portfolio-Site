@@ -1,0 +1,99 @@
+* {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-ms-box-sizing: border-box;
+	box-sizing: border-box;
+}
+
+body {
+    background: #2b2b2b;
+}
+
+h1 {
+	font-size: 46px;
+	letter-spacing: 1px;
+	padding-bottom: 20px;
+	color: #666;
+}
+
+h1.udacity-title {
+	padding-top: 20px;
+}
+
+h2, h3, h4, h5 {
+	color: #FF6600;
+	font-weight: bold;
+}
+
+h4.udacity-heading {
+	font-size: 24px;
+	font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.font_style{
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+p.body-text {
+	font-size: 16px;
+	color: #666666;
+}
+
+.container {
+	max-width: 1000px;
+	height: 100%;
+	background: #FFF;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 5px;
+}
+
+.reading_area {
+	overflow: auto;
+}
+
+.line_spacing {
+	line-height: 200%;
+}
+
+body {
+	font-family: Aerial;
+}
+
+.main-box {
+	border: 1px solid gray;
+	padding: 20px;
+	padding-right: 40px;
+	margin-right: 20px;
+
+}
+
+.main-image {
+	align: left;
+	padding-bottom: 30px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.main-box-heading {
+	font-size: 24px;
+}
+
+.main-box-text {
+	padding-left: 20px;
+	list-style-position: inside;
+	list-style-type: disc;
+}
+
+.add_border {
+	border: 1px solid red;
+}
+
+.row_constraints{
+	margin-left: 		0px;
+	margin-right: 	0px;
+	padding-top: 		0px;
+	padding-bottom: 0px;
+	padding-left: 	0px;
+	padding-right: 	0px;
+}
