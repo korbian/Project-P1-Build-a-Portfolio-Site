@@ -30,13 +30,13 @@ h4.udacity-heading {
 	font-family: "Arial Black", Gadget, sans-serif;
 }
 
-.font_style{
+.font_style {
 	font-family: Verdana, Geneva, sans-serif;
 }
 
 p.body-text {
 	font-size: 16px;
-	color: #666666;
+	color: #666;
 }
 
 .container {
@@ -69,10 +69,10 @@ body {
 }
 
 .main-image {
-	align: left;
+#	align: left;
 	padding-bottom: 30px;
-	padding-left: 0px;
-	padding-right: 0px;
+	padding-left: 0;
+	padding-right: 0;
 }
 
 .main-box-heading {
@@ -89,11 +89,11 @@ body {
 	border: 1px solid red;
 }
 
-.row_constraints{
-	margin-left: 		0px;
-	margin-right: 	0px;
-	padding-top: 		0px;
-	padding-bottom: 0px;
-	padding-left: 	0px;
-	padding-right: 	0px;
+.row_constraints {
+	margin-left: 	0;
+	margin-right: 	0;
+	padding-top: 	0;
+	padding-bottom: 0;
+	padding-left: 	0;
+	padding-right: 	0;
 }
